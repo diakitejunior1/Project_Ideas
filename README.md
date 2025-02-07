@@ -1,16 +1,26 @@
-# Topics in Software Engineering
+Aboubacar S Diakite
+# Proposition:  
+Voting and Polling System
+# Description of the Problem
+This Application solves a lot of common problems with organizing votes and polls in various contexts. For Instance:
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+1- Issues with Manual Voting Processes: Traditional voting methods, such as paper based surveys or in person voting, can be time consuming, likely to have errors in it specially  when trying to collect a large number of votes.
 
-# Tools
-The tools that are installed with this devcontainer are:
+2- Difficulty in Engaging Remote Voters: In today’s digital age, collecting votes from people who are not in the same location can be a challenge. Traditional methods often rely on in person participation, which excludes people who can’t physically attend an event or vote in person.
 
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
+3- Poll Creation and Accessibility problems: creating polls and voting sites in person can require a bit of effort and space which can be really inaccessible for some people. 
 
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+# Primary Users of the Application
+The primary users of the  Polling Application would be:
+
+1- Poll Creators (Individuals or Organizations)
+
+They can be anyone who needs to gather opinions, make group decisions, or engage with a group of people. This includes individuals, event organizers, businesses, social media influencers, community leaders, educational institutions, and even government.
+
+2- Poll Participants 
+
+These are users are who participate in polls, making a choice for their vote in an opened poll. Participants could be members of a community, customers of a business, followers of an influencer, students, or any other group of people who are invited to participate in polls.
+
+c. Businesses
+
+Businesses could also use this application to gather customer insights, opinions, and feedback on various products, services, or marketing ideas
